@@ -24,7 +24,9 @@
      </head>
      <body> 
    <h1>Stina Hafthors Resume</h1>
-   <iframe src="https://giphy.com/embed/mBLYrKaZJACmtum22X" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Espressolab-cat-coffee-shop-mBLYrKaZJACmtum22X">via GIPHY</a></p>
+
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdlN2Q5NnJzcTQzZ3JtM3Rva281aGF5NTMweWt5eHVsejJ0ZmVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLYrKaZJACmtum22X/giphy.gif" width="200" height="200">
+   
    <nav class="navbar">
     <ul>
       <li><a href="#Exp">Experience</a></li>
