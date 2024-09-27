@@ -1,14 +1,10 @@
-
 <!DOCTYPE html>
 <html>
  <head>
     <meta charset="utf-8">
      <head><title>Stina Resume</title>
      <style>
-     .footer{
-        text-align: center;
-        padding: 10px;
-        background-color: #dddd;
+  
      }
      table{
         width:100%;
@@ -36,14 +32,12 @@
       <li><a href="#Con">Contact</a></li>
     </ul>
    </nav>
-   <article><p>
-       Welcome to my website, hope you enjoy it.
-   </p>
-     <hr>
+<p>
+       Welcome to my website, hope you enjoy it.</p>
      <p>My name is Stina Hafthors</p>
      <img src="Paar.jpg"
      width="300px" height="200px">
-   </article>
+
 <section class="Exp">
     <h2>Experinece</h2>
     <table>
