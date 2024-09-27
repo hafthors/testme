@@ -9,7 +9,7 @@
   h1{
       background-color💛;
      }
-h6{
+h5{
         background-color🚙;
      }
 
@@ -23,7 +23,7 @@ h6{
 
      <p>My name is Stina Hafthors</p>
      
-   <h6>Welcome to my website, hope you enjoy it.</h6>
+   <h5>Welcome to my website, hope you enjoy it.</h5>
    
    <p>This is actually my training site for my udemy courses and the website will change almost daily</p>
 
@@ -34,7 +34,7 @@ h6{
 
 <p>I love art and I like to to to Art Gallery every day - I like classic Art as well as funny and modern Art</p>
 
-     <h6>Marc Chagal</h6>
+     <h5>Marc Chagal</h5>
 
 <iframe src="https://giphy.com/embed/daNoU5IlCJyuMWAnbf" width="280" height="289" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daNoU5IlCJyuMWAnbf">via GIPHY</a></p>
 
