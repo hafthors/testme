@@ -30,11 +30,9 @@
 <p>Welcome to my website, hope you enjoy it.</p>
      <p>My name is Stina Hafthors</p>
 
-     <h1>Van Gogh</h1>
+     <h1>Marc Chagal</h1>
 
-     <a href="url(https://cdn.josetxu.com/img/vg-bg.jpg)</a>
-
-
+<iframe src="https://giphy.com/embed/daNoU5IlCJyuMWAnbf" width="280" height="289" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daNoU5IlCJyuMWAnbf">via GIPHY</a></p>
 
 <section class="Exp">
     <h2>Experinece</h2>
