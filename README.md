@@ -29,12 +29,12 @@
 
 <p>Welcome to my website, hope you enjoy it.</p>
      <p>My name is Stina Hafthors</p>
-<body>
+
      <h1>Van Gogh</h1>
-<a href="url('https://fonts.googleapis.com/css2?family=Gluten:slnt,wght@-13..13,100..900&display=swap');</a>
+
+     <a href="url(https://cdn.josetxu.com/img/vg-bg.jpg)</a>
 
 
-</body>
 
 <section class="Exp">
     <h2>Experinece</h2>
