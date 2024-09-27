@@ -23,7 +23,8 @@
       </style>
      </head>
      <body> 
-   <header class="header"><h1>Stina Hafthors Resume</h1></header>
+   <h1>Stina Hafthors Resume</h1>
+   <iframe src="https://giphy.com/embed/mBLYrKaZJACmtum22X" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Espressolab-cat-coffee-shop-mBLYrKaZJACmtum22X">via GIPHY</a></p>
    <nav class="navbar">
     <ul>
       <li><a href="#Exp">Experience</a></li>
@@ -36,9 +37,7 @@
 <p>
        Welcome to my website, hope you enjoy it.</p>
      <p>My name is Stina Hafthors</p>
-     <img src="Paar.jpg"
-     width="300px" height="200px">
-
+ 
 <section class="Exp">
     <h2>Experinece</h2>
     <table>
@@ -79,18 +78,7 @@
 </section>
 
 </section>
-<section id="Int">
-    <h2>Interests</h2>
-    <ul>
-        <li>Design</li>
-        <li>Art</li>
-        <li>Travel</li>
-    </ul>
-</section>
 
-</section>
-<section id="Ski">
- <h2>Skills</h2>
 </section>
 <section id="Con">
  <h2>Contact me</h2>
