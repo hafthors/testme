@@ -19,10 +19,6 @@
         border:1px solid black;
         margin:10px;
      }
-     <div class="content">
-		<div class="van-gogh"></div>
-</div>
-<div class="text"></div>
 
       </style>
      </head>
