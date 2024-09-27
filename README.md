@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
     <meta charset="utf-8">
@@ -19,6 +19,106 @@
         border:1px solid black;
         margin:10px;
      }
+     <div class="content">
+		<div class="van-gogh"></div>
+</div>
+<div class="text"></div>
+@import url('https://fonts.googleapis.com/css2?family=Gluten:slnt,wght@-13..13,100..900&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: url(https://cdn.josetxu.com/img/vg-bg.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+body:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #0008;
+}
+
+.content {
+	width: 67.2vmin;
+	height: 76vmin;
+	background: url(https://cdn.josetxu.com/img/vg-bg.jpg) no-repeat center center;
+	background-size: contain;
+	position: relative;
+	transform: scale(0.65);
+	overflow: hidden;
+	border-radius: 3vmin;
+	box-shadow: #00000066 0 0.2vmin 0.4vmin, #00000044 0 0.7vmin 1.3vmin -0.3vmin, #00000033 0 -0.3vmin 0 inset;
+	border: 1vmin solid #e4ecee;
+}
+
+.text {
+	font-family: "Gluten", cursive;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	font-size: 9vmin;
+	transform: scale(0.65);
+	margin-top: 63vmin;
+	text-shadow: 0 -0.5vmin 0.2vmin #ffffff, -0.1vmin 0.7vmin 0.3vmin #172c41;
+	color: #85a7b1;
+}
+
+.text:before {
+	content: "VAN GOGH";
+	animation: show-text 6s ease 0s 1;
+	animation-fill-mode: forwards;
+}
+
+@keyframes show-text {
+	0%, 20% { content: "VAN GOGH"; }
+	21%, 59% { content: "VAN GOGHING"; }
+	60%, 100% { content: "VAN GONE"; }
+}		
+
+@keyframes show-text-hover {
+	0%, 20% { content: "VAN GOGH"; }
+	21%, 59% { content: "VAN GOGHING"; }
+	60%, 100% { content: "VAN GONE"; }
+}
+
+.van-gogh {
+	width: 60vmin;
+	height: 68vmin;
+	background: url(https://cdn.josetxu.com/img/vg-01.png) no-repeat center center;
+	background-size: cover;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	animation: move-start 6s ease 0s 1;
+	animation-fill-mode: forwards;
+	filter: drop-shadow(0 0 0.5vmin #ffffff88);
+}
+
+@keyframes move-start {
+	5%, 20% { right: 0; }
+	0%, 85%, 100%  { right: -100%; }
+}
+
+@keyframes move-hover {
+	5%, 20% { right: 0; }
+	0%, 85%, 100%  { right: -100%; }
+}
+
+.content:hover .van-gogh {
+	animation-name: move-hover;
+}
+
+.content:hover + .text::before {
+	animation-name: show-text-hover;
+}
       </style>
      </head>
      <body> 
@@ -102,5 +202,6 @@
 <footer class="footer">Copyright (c) 2022 Stina Hafthors Content please Contact
     me to find out more.</footer>
 </footer>
+
 </body>
 </html>
