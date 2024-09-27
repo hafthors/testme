@@ -2,7 +2,7 @@
 <html>
  <head>
     <meta charset="utf-8">
-     <head><title>Stina Resume</title>
+     <head><title>Stina H Test training Webstie - Udemy Student</title>
      <style>
   
      }
@@ -29,10 +29,7 @@
    
    <nav class="navbar">
     <ul>
-      <li><a href="#Exp">Experience</a></li>
-      <li><a href="#Edu">Education</a></li>
       <li><a href="#Int">Interests</a></li>
-      <li><a href="#Ski">Skills></a></li>
       <li><a href="#Con">Contact</a></li>
     </ul>
    </nav>
@@ -68,20 +65,23 @@
     </tr>
     </table>
 
-</section>
-<section id="Edu">
-    <h2>Education</h2>
-    <dl>
-        <dt>My Universtity</dt>
-        <dd>BS</dd>
-        <dt>Reykjavik Universtity</dt>
-        <dd>MBA</dd>
-    </dl>
-</section>
+<section id="Int">
+    <h2>Interests</h2>
+   <ul>
+    <li>Travel</li>
+    <li>Web design</li>
+    <li>Art</li>
+    <li>Trekking</li>
+   </ul>
 
 </section>
 
+<div class="content">
+		<div class="van-gogh"></div>
+</div>
+<div class="text"></div>
 </section>
+
 <section id="Con">
  <h2>Contact me</h2>
  <p>
