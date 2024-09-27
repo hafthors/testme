@@ -32,11 +32,9 @@ h6{
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdlN2Q5NnJzcTQzZ3JtM3Rva281aGF5NTMweWt5eHVsejJ0ZmVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLYrKaZJACmtum22X/giphy.gif" width="300" height="200">
 
 
-<h6 style="backgournd color:Yellow;>ART</h6>
-
 <p>I love art and I like to to to Art Gallery every day - I like classic Art as well as funny and modern Art</p>
 
-     <h5>Marc Chagal</h5>
+     <h6>Marc Chagal</h6>
 
 <iframe src="https://giphy.com/embed/daNoU5IlCJyuMWAnbf" width="280" height="289" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/daNoU5IlCJyuMWAnbf">via GIPHY</a></p>
 
