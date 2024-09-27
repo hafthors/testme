@@ -26,17 +26,10 @@
    <h1>Stina Hafthors Resume</h1>
 
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdlN2Q5NnJzcTQzZ3JtM3Rva281aGF5NTMweWt5eHVsejJ0ZmVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLYrKaZJACmtum22X/giphy.gif" width="300" height="200">
-   
-   <nav class="navbar">
-    <ul>
-      <li><a href="#Int">Interests</a></li>
-      <li><a href="#Con">Contact</a></li>
-    </ul>
-   </nav>
-<p>
-       Welcome to my website, hope you enjoy it.</p>
-     <p>My name is Stina Hafthors</p>
 
+<p>Welcome to my website, hope you enjoy it.</p>
+     <p>My name is Stina Hafthors</p>
+<body>
      <div class="content">
 		<div class="van-gogh"></div>
 </div>
@@ -138,6 +131,8 @@ body:before {
 .content:hover + .text::before {
 	animation-name: show-text-hover;
 }
+</body>
+
 <section class="Exp">
     <h2>Experinece</h2>
     <table>
