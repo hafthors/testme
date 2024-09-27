@@ -6,13 +6,20 @@
 
       
      <style>
-  
+  h1{
+      background-color💛;
+     }
+h6{
+        background-color🚙;
+     }
+
  
       </style>
      </head>
      <body> 
      
-   <h1 style="background-color:DodgerBlue;">Stina Hafthors Training Website</h1>
+  
+  <h1>Stina Hafthors Training Website</h1>
 
      <p>My name is Stina Hafthors</p>
      
