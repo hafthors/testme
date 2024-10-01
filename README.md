@@ -5,11 +5,7 @@
      <head><title>Stina H Test training Webstie - Udemy Student</title>
 
       
-     <style>
- 
 
- 
-      </style>
      </head>
      <body> 
 
@@ -31,13 +27,7 @@
 
 <p>I'm from Icleand and I live for coffee!</p>
 
-    
-
-
-
-<footer class="footer">Copyright (c) 2022 Stina Hafthors Content please Contact
-    me to find out more.</footer>
-</footer>
+  
 
 </body>
 </html>
