@@ -10,12 +10,10 @@
         
      body {
             background-color: pink;
-       {
-    p {
-            color: red;
-        }
-        
+       
 
+   <a href="https://art-hope.my.canva.site/">Visit Canva Site!</a>
+   
 
        </style>
 
@@ -31,7 +29,6 @@
      
    <h5>Welcome to my website, hope you enjoy it.</h5>
 
-   <a href="https://art-hope.my.canva.site/">Visit Canva Site!</a>
    
    <p>This is actually my training site for my udemy courses and the website will change almost daily</p>
 
