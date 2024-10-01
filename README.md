@@ -5,10 +5,8 @@
      <head><title>Stina H Test training Webstie - Udemy Student</title>
 
        <style>
-        h1, h3 {
-            color: red;
-        }
-
+          background-color: pink;
+     </style>
 
      </head>
      <body> 
