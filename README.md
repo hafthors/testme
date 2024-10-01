@@ -4,34 +4,14 @@
     <meta charset="utf-8">
      <head><title>Stina H Test training Webstie - Udemy Student</title>
 
- 
-          <style>
-        .green1 {
-            color: green;
-        }
+        <style>
         
-        .green2 {
-            color: #00FF00;
-        }
-        
-        .green3 {
-            color: rgb(0, 255, 0);
-        }
-        
-        .green4 {
-            color: rgba(0, 255, 0, 0.5);
-        }
-    </style>
-</head>
- 
-<body>
-    <ol>
-        <li class="green1"> Example 1 </li>
-        <li class="green2"> Example 2 </li>
-        <li class="green3"> Example 3 </li>
-        <li class="green4"> Example 4 </li>
+     body {
+            background-color: pink;
+       {
+    
+       </style>
 
-     </style>
 
      </head>
      <body> 
