@@ -4,7 +4,11 @@
     <meta charset="utf-8">
      <head><title>Stina H Test training Webstie - Udemy Student</title>
 
-      
+       <style>
+        h1, h3 {
+            color: red;
+        }
+
 
      </head>
      <body> 
