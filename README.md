@@ -1,15 +1,22 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
  <head>
     <meta charset="utf-8">
-     <head><title>Stina H Test training Webstie - Udemy Student</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+     <head><title>Stina H Test training Webstie</title>
 
         <style>
         
      body {
             background-color: pink;
        {
-    
+    p {
+            color: red;
+        }
+        
+
+
        </style>
 
 
